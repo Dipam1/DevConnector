@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://deepum:deepum@devconnecter-4tjjl.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
